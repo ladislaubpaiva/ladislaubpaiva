@@ -3,7 +3,8 @@
 # Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
 </div>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ladislaubpaiva/4395d35d13d99280ff80252c20ba3f20/raw/6927089a2c3a9f18c6cb8501ce3c96f1a8b29939/digitalcard.svg"/>
+<a href="https://github.com/ladislaubpaiva">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ladislaubpaiva/4395d35d13d99280ff80252c20ba3f20/raw/6927089a2c3a9f18c6cb8501ce3c96f1a8b29939/digitalcard.svg"/></a>
 <h1 align="left">ℹ️ Talking About Myself</h1>
 
 - 🔭 I’m currently working on web development
@@ -11,10 +12,10 @@
 - ⚡ Fun fact: I like so much anime and manga
 - 🧑🏽‍💻 All my projects are available on my <a href ="https://ladislaubpaiva.github.io">website</a>
 
-[![Blog](https://img.shields.io/website?label=ladislaubpaiva.github.io&style=for-the-badge&url=https://ladislaubpaiva.github.io)](https://ladislaubpaiva.github.io)
+     [![Blog](https://img.shields.io/website?label=ladislaubpaiva.github.io&style=for-the-badge&url=https://ladislaubpaiva.github.io)](https://ladislaubpaiva.github.io)
 
 <h1 align="left">⭐ My Statistics</h1>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/>
+<a href="https://github.com/ladislaubpaiva"><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/></a>
 
 <h1 align="left">🛠️ My Skills</h1>  
 <a href="https://github.com/ladislaubpaiva">
@@ -47,5 +48,5 @@
 
 <h1 align="left">🔗Social</h1>
 <div align="center">
-<img width="700em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ladislaubpaiva&layout=wide&show_reply=off&show_retweet=off"/>
+<img width="650em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ladislaubpaiva&layout=wide&show_reply=off&show_retweet=off"/>
 </div> 

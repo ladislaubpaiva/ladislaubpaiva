@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
 </div>
 
@@ -12,15 +12,23 @@
 - 🧑🏽‍💻 All my projects are available on my <a href ="https://ladislaubpaiva.github.io">website</a>
 
 <h1 align="left">⭐ My Statistics</h1>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/>
 
-<h1 align="left">🤹🏽 My Skills</h1>
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<h1 align="left">🛠️ My Skills</h1>  
+<a href="">
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="">
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="">
+<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="">
+<img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<br>
+<br>
+<a href="">
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
 <h1 align="left">📬 Contact</h1>
 
@@ -37,4 +45,5 @@
 
 <h1 align="left">🔗Social</h1>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ladislaubpaiva&layout=wide&show_reply=off&show_retweet=off"/>
+<img width="800em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ladislaubpaiva&layout=wide&show_reply=off&show_retweet=off"/>
+              

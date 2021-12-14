@@ -12,7 +12,7 @@
 - 🧑🏽‍💻 All my projects are available on my <a href ="https://ladislaubpaiva.github.io">website</a>
 
 <h1 align="left">⭐ My Statistics</h1>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/>
 
 <h1 align="left">🛠️ My Skills</h1>  
 <a href="">
@@ -23,8 +23,6 @@
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="">
 <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<br>
-<br>
 <a href="">
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="">

@@ -49,5 +49,6 @@
 <h1 align="left">🔗Social</h1>
 <div align="center">
   <a href="https://twitter.com/ladislaubpaiva">
-<img width="650em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ladislaubpaiva&layout=wide&show_reply=off&show_retweet=off"/></a>
-</div> 
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=ladislaubpaiva&show_reply=off"/></a>
+</div>
+

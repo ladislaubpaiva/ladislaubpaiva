@@ -50,7 +50,7 @@
 <div align="center">
   <a href="https://twitter.com/ladislaubpaiva">
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=ladislaubpaiva&show_reply=off&layout=wide"/></a>
-  <div>
+  <div><hr>
   <a href="mailto:ladislaubpaiva@hotmail.com" target="_blank">
 <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/message/C4AULT2XI4BUO1" target="_blank">

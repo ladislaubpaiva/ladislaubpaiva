@@ -5,19 +5,22 @@
 
 <a href="https://github.com/ladislaubpaiva">
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ladislaubpaiva/4395d35d13d99280ff80252c20ba3f20/raw/6927089a2c3a9f18c6cb8501ce3c96f1a8b29939/digitalcard.svg"/></a>
-<h1 align="left">ℹ️ Talking About Myself</h1>
-
+<div align="center">
+<h1>ℹ️ Talking About Myself</h1>
+  
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning PHP and MySQL
 - ⚡ Fun fact: I like anime and manga
 - 🧑🏽‍💻 All my projects are available on my <a href="https://ladislaubpaiva.pages.dev">website</a>
 
-     [![Blog](https://img.shields.io/website?label=ladislaubpaiva.pages.dev&style=for-the-badge&url=https://ladislaubpaiva.pages.dev)](https://ladislaubpaiva.pages.dev)
-
-<h1 align="left">⭐ My Statistics</h1>
+   [![Blog](https://img.shields.io/website?label=ladislaubpaiva.pages.dev&style=for-the-badge&url=https://ladislaubpaiva.pages.dev)](https://ladislaubpaiva.pages.dev)
+     
+  </div>
+<div align="center">
+<h1>⭐ My Statistics</h1>
 <a href="https://github.com/ladislaubpaiva"><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/></a>
-
-<h1 align="left">🛠️ My Skills</h1>  
+</div>
+<h1 align="center">🛠️ My Skills</h1>  
 <a href="https://github.com/ladislaubpaiva">
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/ladislaubpaiva">

@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning PHP and MySQL
-- ⚡ Fun fact: I like so much anime and manga
+- ⚡ Fun fact: I like anime and manga
 - 🧑🏽‍💻 All my projects are available on my <a href="https://ladislaubpaiva.pages.dev">website</a>
 
      [![Blog](https://img.shields.io/website?label=ladislaubpaiva.pages.dev&style=for-the-badge&url=https://ladislaubpaiva.pages.dev)](https://ladislaubpaiva.pages.dev)

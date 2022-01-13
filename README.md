@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I like so much anime and manga
 - 🧑🏽‍💻 All my projects are available on my <a href="https://ladislaubpaiva.github.io">website</a>
 
-     [![Blog](https://img.shields.io/website?label=ladislaubpaiva.github.io&style=for-the-badge&url=https://ladislaubpaiva.github.io)](https://ladislaubpaiva.github.io)
+     [![Blog](https://img.shields.io/website?label=ladislaubpaiva.pages.dev&style=for-the-badge&url=https://ladislaubpaiva.pages.dev)](https://ladislaubpaiva.github.io)
 
 <h1 align="left">⭐ My Statistics</h1>
 <a href="https://github.com/ladislaubpaiva"><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/></a>

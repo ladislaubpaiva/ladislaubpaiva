@@ -33,7 +33,7 @@
 <a href="https://github.com/ladislaubpaiva">
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
-<h1 align="left">📬 Contact</h1>
+<!-- <h1 align="left">📬 Contact</h1> -->
 
 <!-- <a href="mailto:ladislaubpaiva@hotmail.com" target="_blank">
 <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

@@ -1,26 +1,25 @@
 <div align="center">
   
 # Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
-</div>
 
+<div align="right">
 <a href="https://github.com/ladislaubpaiva">
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ladislaubpaiva/4395d35d13d99280ff80252c20ba3f20/raw/6927089a2c3a9f18c6cb8501ce3c96f1a8b29939/digitalcard.svg"/></a>
-<div align="center">
-<h1>ℹ️ Talking About Myself</h1>
-  
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning PHP and MySQL
+</div>
+
+  <h1>ℹ️ Talking About Myself</h1> 
+    
+- 🔭 I’m currently working on web development<br>
+- 🌱 I’m currently learning PHP and MySQL<br>
 - ⚡ Fun fact: I like anime and manga
 - 🧑🏽‍💻 All my projects are available on my <a href="https://ladislaubpaiva.pages.dev">website</a>
-
-   [![Blog](https://img.shields.io/website?label=ladislaubpaiva.pages.dev&style=for-the-badge&url=https://ladislaubpaiva.pages.dev)](https://ladislaubpaiva.pages.dev)
-     
-  </div>
-<div align="center">
+  
+[![Blog](https://img.shields.io/website?label=ladislaubpaiva.pages.dev&style=for-the-badge&url=https://ladislaubpaiva.pages.dev)](https://ladislaubpaiva.pages.dev)
+  
 <h1>⭐ My Statistics</h1>
 <a href="https://github.com/ladislaubpaiva"><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/></a>
-</div>
-<h1 align="center">🛠️ My Skills</h1>  
+
+<h1>🛠️ My Skills</h1>  
 <a href="https://github.com/ladislaubpaiva">
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/ladislaubpaiva">
@@ -49,8 +48,7 @@
 <a href="https://www.youtube.com/channel/UCyrEfX3MSjYwvWEnf8MD45g" target="_blank">
 <img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
 
-<h1 align="left">🔗Social</h1>
-<div align="center">
+<h1>🔗Social</h1>
   <a href="https://twitter.com/ladislaubpaiva">
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=ladislaubpaiva&show_reply=off&layout=wide"/></a>
   <div><hr>
@@ -64,5 +62,6 @@
 <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCyrEfX3MSjYwvWEnf8MD45g" target="_blank">
 <img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></div>
+  
 </div>
 

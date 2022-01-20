@@ -2,9 +2,9 @@
   
 # Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
 
-<div align="right">
+<div>
 <a href="https://github.com/ladislaubpaiva">
-<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/ladislaubpaiva/4395d35d13d99280ff80252c20ba3f20/raw/6927089a2c3a9f18c6cb8501ce3c96f1a8b29939/digitalcard.svg"/></a>
+<img height="300em" src="Card.png"/></a>
 </div>
 
   <div>

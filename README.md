@@ -18,9 +18,7 @@
   
 <h1>⭐ My Statistics</h1>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ladislaubpaiva)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/ladislaubpaiva"><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&langs_count=8&theme=dracula"/>
 
 <h1>🛠️ My Skills</h1>  
 <a href="https://github.com/ladislaubpaiva">

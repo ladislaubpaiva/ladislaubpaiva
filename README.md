@@ -18,7 +18,7 @@
   
 <h1>⭐ My Statistics</h1>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&langs_count=8&theme=dracula"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <h1>🛠️ My Skills</h1>  
 <a href="https://github.com/ladislaubpaiva">

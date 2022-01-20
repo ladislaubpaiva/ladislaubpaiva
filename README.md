@@ -4,7 +4,7 @@
 
 <div align="right">
 <a href="https://github.com/ladislaubpaiva">
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ladislaubpaiva/4395d35d13d99280ff80252c20ba3f20/raw/6927089a2c3a9f18c6cb8501ce3c96f1a8b29939/digitalcard.svg"/></a>
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/ladislaubpaiva/4395d35d13d99280ff80252c20ba3f20/raw/6927089a2c3a9f18c6cb8501ce3c96f1a8b29939/digitalcard.svg"/></a>
 </div>
 
   <h1>ℹ️ Talking About Myself</h1> 

@@ -17,6 +17,9 @@
 [![Blog](https://img.shields.io/website?label=ladislaubpaiva.pages.dev&style=for-the-badge&url=https://ladislaubpaiva.pages.dev)](https://ladislaubpaiva.pages.dev)
   
 <h1>⭐ My Statistics</h1>
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ladislaubpaiva)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/ladislaubpaiva"><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&theme=tokyonight" alt="most languages"/></a>
 
 <h1>🛠️ My Skills</h1>  
@@ -35,18 +38,6 @@
 <a href="https://github.com/ladislaubpaiva">
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
-<!-- <h1 align="left">📬 Contact</h1> -->
-
-<!-- <a href="mailto:ladislaubpaiva@hotmail.com" target="_blank">
-<img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://wa.me/message/C4AULT2XI4BUO1" target="_blank">
-<img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ladislaubpaiva/" target="_blank">
-<img align="center" alt=Linkedin src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/ladislaubpaiva" target="_blank">
-<img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCyrEfX3MSjYwvWEnf8MD45g" target="_blank">
-<img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
 
 <h1>🔗Social</h1>
   <a href="https://twitter.com/ladislaubpaiva">

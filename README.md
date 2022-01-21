@@ -38,10 +38,10 @@
   <div>
     
   ## ⭐ My Statistics
-    
- <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ladislaubpaiva&show_icons=true&theme=tokyonight"/>
-    
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="#">
+ <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ladislaubpaiva&show_icons=true&theme=tokyonight"/></a>
+  <a href="#">
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&langs_count=8&theme=tokyonight"/></a>
   </div>
   
 <div>

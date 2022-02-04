@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on web development
     
-- 🌱 I’m currently learning PHP and MySQL
+- 🌱  Always learning new technologies, and improving as much as possible
     
 - ⚡ Fun fact: I like anime and manga
     

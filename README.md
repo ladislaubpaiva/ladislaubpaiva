@@ -1,10 +1,10 @@
 <div align="center">
   
-# Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
+# Hello<img src="https://raquote_type = singlew.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
 
 <div>
 <a href="https://github.com/ladislaubpaiva">
-<img width="100%" src="Card.png"/></a>
+<img width="100%" sr="Caquote_type = singlerd.png"/></a>
 </div>
 
   <div>

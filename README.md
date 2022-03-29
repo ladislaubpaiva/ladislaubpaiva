@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello<img src="https://raquote_type = singlew.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
+# Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ladislau Paiva.
 
 <div>
 <a href="https://github.com/ladislaubpaiva">

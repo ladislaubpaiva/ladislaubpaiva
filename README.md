@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/ladislaubpaiva">
-<img width="100%" sr="Caquote_type = singlerd.png"/></a>
+<img width="100%" sr="Caquote_type = Card.png"/></a>
 </div>
 
   <div>

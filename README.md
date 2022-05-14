@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/ladislaubpaiva">
-<img width="100%" src="Card.png"/></a>
+<img width="100%" src="GitCard.png"/></a>
 </div>
 
   <div>

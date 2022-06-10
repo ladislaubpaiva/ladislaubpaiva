@@ -40,7 +40,7 @@
   <a href="#">
  <img  height="250em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ladislaubpaiva&show_icons=true&theme=tokyonight"/></a>
   <a href="#">
-<img  height="250em"width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&langs_count=8&theme=tokyonight"/></a>
+<img  height="250em"width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladislaubpaiva&layout=compact&langs_count=8&count_private=true&theme=tokyonight"/></a>
   </div>
   
 <div>
